@@ -1,0 +1,8 @@
+[server]
+port = 8080.0
+host = "localhost"
+timeouts = [10.0, 20.0, 30.0]
+
+[server.db]
+user = "admin"
+password = "secret"
