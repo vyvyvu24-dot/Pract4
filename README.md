@@ -15,6 +15,6 @@
 
 ## Установка
 ```bash
-git clone <url-репозитория>
-cd <папка-проекта>
+git clone https://github.com/vyvyvu24-dot/Pract4.git
+cd Pract4
 pip install -r requirements.txt
